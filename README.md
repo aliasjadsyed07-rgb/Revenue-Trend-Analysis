@@ -106,9 +106,3 @@ Open Dashboard
 
 Open the .pbix file using Power BI Desktop.
 
-Future Improvements
-SQL Integration
-Automated Data Pipelines
-Forecasting Models
-Real-Time Dashboards
-Machine Learning Integration
